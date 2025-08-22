@@ -18,3 +18,11 @@ A beautifully crafted wedding invitation webpage using **HTML** and **CSS**. Des
 - 📐 Clean layout using CSS Flexbox
 - 🔗 Social media sharing links
 - 🌐 Hosted on Netlify for fast performance
+---
+📚 Internship Info
+This project was built as part of the Frontend Web Development Internship at MotionCut, Week 2 – Project 1.
+---
+
+📝 License
+This project is shared for learning purposes under the MotionCut internship. You are free to use or adapt it with credit.
+---
